@@ -39,6 +39,7 @@ animation/
   style.css
   script.js
 
+
 ##Challenges Faced
 * Managing animation timing and smooth transitions
 * Aligning elements consistently across screen sizes
@@ -51,7 +52,3 @@ animation/
 * Handling dynamic behavior using JavaScript
 * Building projects from scratch improves understanding
 
-
-
-* Improve performance and optimization
-* Convert into component-based architecture (React)
