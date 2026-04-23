@@ -29,6 +29,11 @@ Key areas of focus:
 * CSS3 (animations, transitions)
 * JavaScript (event handling, interactions)
 
+## Design & Approach
+The project was structured to separate concerns between layout, styling, and behavior. HTML handles structure, CSS manages visual design and animations, and JavaScript controls user interactions and dynamic updates.
+The focus was on building a maintainable and scalable structure rather than a one-off implementation.
+
+
 ## Project Structure
 
 ```bash
